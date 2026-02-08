@@ -21,3 +21,16 @@
 ## Bug Fixes
 - Removed many many bugs
 > All things I talked about **grypesc/getRickRolled** was as of **Feburary 8th, 2026**.
+
+
+# How to play with your friends & Enjoy.
+You have to be connected to same Wifi. (You can be one who is sharing hotspot too)
+open your terminal in this folder and type:
+```
+cd game
+npm install
+node server.js
+```
+After doing that enter **{YourIPAdress}:54070/** to play the game
+### How to know what is your IP adress?
+Open cmd or powershell and enter `ipconfig` and see what is next to IPv4Adress:
